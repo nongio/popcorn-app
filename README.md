@@ -1,14 +1,16 @@
-#Popcorn time [![Dependency Status](https://david-dm.org/luxifer/popcorn-app.svg?theme=shields.io)](https://david-dm.org/popcorn-team/popcorn-app)
+#Popcorn time [![Dependency Status](https://david-dm.org/popcorn-org/popcorn-app.svg?theme=shields.io)](https://david-dm.org/popcorn-org/popcorn-app)
 
 ### Idea
 
 To allow any computer user to watch movies easily streaming from torrents, without any particular knowledge.
 
-![Demo Screenshot](http://static.cdnjd.com/imgs/how-ui.png)
+![Demo Screenshot](http://popcorn-time.tv/images/how-ui.png)
 
-### Status
+### Donations
 
-Under development (RC1) for Mac OSX - Windows - Linux.
+Hosting and domains names are not free, any donation are more than helpful. Also, if you appreciate the work done, feel free to tip a beer to the developers!
+
+Bitcoin donation wallet: `1FbdjxxpHcamJYHU3afy9nX4C1P4dLSCJh`
 
 ### APIs
 
@@ -19,7 +21,7 @@ Under development (RC1) for Mac OSX - Windows - Linux.
 
 ### Development
 
-See [Development's page](https://github.com/popcorn-team/popcorn-app/wiki/Development)
+See [Development's page](https://github.com/popcorn-org/popcorn-app/wiki/Development)
 
 ### How to contribute
 
@@ -27,10 +29,10 @@ First, building, testing and reporting bug is highly appreciated. Please include
 
 Right now we are doing a lot of refactoring to clean the codebase so if you work on a new feature based on 0.2.x, it probably won't merge into 0.3.0. This is why we recommend you to hold all pull request other than bug fixes until we release 0.3.0 and stabilize the new codebase. From that point, we plan to add a lot of new features asked by the community and merge pull request.
 
-If you want to develop, you can look at the issues, especialy [the bugs](https://github.com/popcorn-team/popcorn-app/issues?labels=type%3A+bug&milestone=&page=1&state=open) and fix them. Refactoring tasks are [listed here](https://github.com/popcorn-team/popcorn-app/issues?milestone=3&state=open). However it is recommended you come talk with the devs in IRC before you start working on something specific since we already have an idea of how we are going to get most thing done.
+If you want to develop, you can look at the issues, especialy the bug and fix them.
 Here's a [list of feature](https://popcorntime.uservoice.com/forums/245422-general) requested by the community so far.
 
-Please follow the [contributions guidelines](https://github.com/popcorn-team/popcorn-app/wiki/Contribution-Guidelines).
+Please follow the [contributions guidelines](https://github.com/popcorn-org/popcorn-app/blob/master/CONTRIBUTING.md).
 
 Join us on IRC at `#popcorntime` on freenode ([web access](http://webchat.freenode.net/?channels=popcorntime)), most active developers hang in there.
 
